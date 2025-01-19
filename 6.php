@@ -6,9 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>task 4 </h1>
-    <p>blog section</p>
-    <h1>Shipping method</h1>
-    <p>File 6 added</p>
+    <h1>FIle 6</h1>
 </body>
 </html>
