@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>Week days given at end</h1>
     <h1>Hello world</h1>
     <p>modified</p>
     <h3>Greetings</h3>
@@ -23,5 +24,6 @@
     <h1>Dell branch 2 created</h1>
     <p>Rainy today</p>
     <h1>New section for week come under here</h1>
+    <h1>Monday page created</h1>
 </body>
 </html>
