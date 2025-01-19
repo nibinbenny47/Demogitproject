@@ -18,5 +18,7 @@
     <h4>vue js 2 to study</h4>
     <p>Good morning</p>
     <h1>File 6 added</h1>
+    <h1>Greetings page added</h1>
+    <h1>project cloned </h1>
 </body>
 </html>
