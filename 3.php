@@ -6,9 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello world</h1>
-    <p>modified</p>
-    <h3>Greetings</h3>
-    <p>How old are you?</p>
+    <h1>File 3</h1>
+    <p>What is your name?</p>
+    <p>What is your hobbies?</p>
 </body>
 </html>
