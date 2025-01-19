@@ -25,5 +25,7 @@
     <p>Rainy today</p>
     <h1>New section for week come under here</h1>
     <h1>Monday page created</h1>
+    <h2>Rest files are coming</h2>
+
 </body>
 </html>

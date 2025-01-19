@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Monday page</h1>
+    <p>Monday description</p>
 </body>
 </html>
