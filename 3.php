@@ -9,5 +9,6 @@
     <h1>File 3</h1>
     <p>What is your name?</p>
     <p>What is your hobbies?</p>
+    <h1>New section</h1>
 </body>
 </html>
