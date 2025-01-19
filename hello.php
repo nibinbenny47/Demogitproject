@@ -28,5 +28,8 @@
     <h2>Rest files are coming</h2>
     <p>New change</p>
 
+    <h1>Tuesday page created</h1>
+    <h1>Wednesday page created</h1>
+    <h4>Thursday file created</h4>
 </body>
 </html>
