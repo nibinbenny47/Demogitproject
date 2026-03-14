@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>Week days given at end</h1>
     <h1>Hello world</h1>
     <p>modified</p>
     <h3>Greetings</h3>
@@ -18,5 +19,17 @@
     <h4>vue js 2 to study</h4>
     <p>Good morning</p>
     <h1>File 6 added</h1>
+    <h1>Greetings page added</h1>
+    <h1>project cloned </h1>
+    <h1>Dell branch 2 created</h1>
+    <p>Rainy today</p>
+    <h1>New section for week come under here</h1>
+    <h1>Monday page created</h1>
+    <h2>Rest files are coming</h2>
+    <p>New change</p>
+
+    <h1>Tuesday page created</h1>
+    <h1>Wednesday page created</h1>
+    <h4>Thursday file created</h4>
 </body>
 </html>
